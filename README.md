@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently exploring **Generative AI and LLM's**
 
-- 🌱 I’m currently learning **Programming in Rust**
+- 🌱 I’m currently learning **Programming in Go**
 
 - 💬 Ask me about **Python, Machine Learning, Web Scraping, Data analysis, Automation, API's.**
 
